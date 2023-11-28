@@ -1,11 +1,11 @@
 # Simple Kotlin Syntax 
 ## Part 1
-1. Hello World
-2. Packages
-3. Variables
-4. Functions
-5. Data types
-6. Operators
+1. Hello World - Done
+2. Packages - Done
+3. Variables - Done
+4. Functions - Done
+5. Data types - Done
+6. Operators - Done
 
 ## Part 2
 1. Loops
