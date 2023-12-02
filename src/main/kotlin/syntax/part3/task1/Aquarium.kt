@@ -1,4 +1,4 @@
-package syntax.part3.oop.basics
+package syntax.part3.task1
 
 class Aquarium {
     var width: Int = 20
